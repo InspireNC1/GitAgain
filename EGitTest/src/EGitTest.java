@@ -7,6 +7,6 @@ public class EGitTest {
 		System.out.println("Joydeep Mukherjee: " + Core.VERSION);
 		System.out.println("Kavin Uploads " + Core.VERSION);
 		System.out.println("Manav Works " + Core.VERSION);
-		System.out.println("Rohini Works"+ Core.VERSION);
+		System.out.println("Rohini Works good "+ Core.VERSION);
 	}
 }
