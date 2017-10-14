@@ -6,5 +6,6 @@ public class EGitTest {
 		System.out.println("OpenCV version: " + Core.VERSION);
 		System.out.println("Joydeep Mukherjee: " + Core.VERSION);
 		System.out.println("Kavin Uploads " + Core.VERSION);
+		System.out.println("Manav Works " + Core.VERSION);
 	}
 }
