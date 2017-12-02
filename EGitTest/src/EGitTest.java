@@ -8,5 +8,7 @@ public class EGitTest {
 		System.out.println("Kavin Uploads " + Core.VERSION);
 		System.out.println("Manav Works " + Core.VERSION);
 		System.out.println("Rohini Works good and nice "+ Core.VERSION);
+		int a = 2+2;
+		System.out.println("Kavin: Testing egit..." + a);
 	}
 }
