@@ -10,5 +10,6 @@ public class EGitTest {
 		System.out.println("Rohini Works good and nice "+ Core.VERSION);
 		int a = 2+2;
 		System.out.println("Kavin: Testing egit..." + a);
+		System.out.println("Kavin wants to make a new repo");
 	}
 }
